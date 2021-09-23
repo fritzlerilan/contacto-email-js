@@ -7,3 +7,6 @@ Este proyecto es parte del curso [JavaScript Moderno Guía Definitiva Construye 
  - ☑️ Uso de selectores
  - 📄 DOM Scripting
  - 💅 Styling CSS desde JS
+
+### Deploy en Netlify
+contacto-email-js-fritzlerilan.netlify.app
